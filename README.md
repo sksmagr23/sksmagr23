@@ -1,5 +1,5 @@
 <h2 align="center">Hello👋, myself SAKSHAM AGRAWAL</h2>
-<h3 align="center">Sophomore at IIT (BHU) Varanasi ,currently flourishing skills in MERN STACK Development</h3>
+<h3 style="color:red;" align="center">Sophomore at IIT (BHU) Varanasi ,currently flourishing skills in MERN STACK Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksmagr23&label=views&color=29d4ff&style=flat-square" alt="sksmagr23" /> </p>
 
