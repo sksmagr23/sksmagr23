@@ -1,16 +1,16 @@
-<h2 align="center">Hi 👋! Myself Saksham Agrawal<br>Sophomore at IIT BHU VARANASI<br>Currently flourishing skills in web development<br>Wants to explore more in AI/ML</h2>
+<h2 align="center">Hi 👋! Myself Saksham Agrawal</h2><br><h3>Sophomore at IIT (BHU) VARANASI, currently flourishing skills in web development, wants to explore more in AI/ML</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksmagr23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&custom_title=Github%20Stats" height="145" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sksmagr23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&custom_title=Prominent%20Techs" height="145" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sksmagr23&custom_title=Activity&theme=github-dark&radius=0&area=false&hide_title=true" height="180" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sksmagr23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&custom_title=Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sksmagr23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&custom_title=Prominent%20Techs" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sksmagr23&custom_title=Activity&theme=github-dark&radius=0&area=false&hide_title=true" height="185" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="50" alt="c logo"  />
@@ -45,8 +45,8 @@
 </div>
 
 ###
-
-<div align="left">
+<br>
+<div align="center">
   <a href="mailto:sakshamag34@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FD1D1D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -66,6 +66,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sksmagr23.sksmagr23&left_color=blue&right_color=yellowgreen&left_text=Views"  />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=sksmagr23.sksmagr23&left_color=blue&right_color=yellowgreen&left_text=Views"  />
 
 ###
