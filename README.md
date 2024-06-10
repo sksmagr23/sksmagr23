@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋! Myself<br> SAKSHAM AGRAWAL</h2><br><h3 align="center">Sophomore at IIT (BHU) VARANASI, currently flourishing skills in web development, wants to explore more in AI/ML</h3>
+<h2 align="center">Hi👋! Myself<br> SAKSHAM AGRAWAL</h2><h3 align="center">Sophomore at IIT (BHU) VARANASI, currently flourishing skills in web development, wants to explore more in AI/ML</h3>
 
 ###
 
