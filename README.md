@@ -65,7 +65,3 @@
 </div>
 
 ###
-
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=sksmagr23.sksmagr23&left_color=blue&right_color=yellowgreen&left_text=Views"  />
-
-###
