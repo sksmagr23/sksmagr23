@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sksmagr23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&custom_title=Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sksmagr23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&custom_title=Prominent%20Techs" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sksmagr23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=blue-green&hide_border=true&custom_title=Prominent%20Techs" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sksmagr23&custom_title=Activity&theme=github-dark&radius=0&area=false&hide_title=true" height="185" alt="activity-graph graph"  />
 </div>
 
