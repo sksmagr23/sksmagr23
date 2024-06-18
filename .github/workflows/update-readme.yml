@@ -2,25 +2,28 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Runs every day at midnight
   push:
     branches:
-      - main
+      - main  # Runs on every push to the main branch
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          username: sksmagr23
-          langs_count: 7
-          exclude_repo: ''
-      - name: Update README
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update GitHub Stats in README
         run: |
-          cat <<EOF > README.md
-          ![Prominent Techs](https://github-readme-stats.vercel.app/api/top-langs?username=sksmagr23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=blue-green&hide_border=true&custom_title=Prominent%20Techs)
-          EOF
+          echo "Updating README with GitHub Stats"
+          echo "![](https://github-readme-stats.vercel.app/api/top-langs?username=sksmagr23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=blue-green&hide_border=true&custom_title=Prominent%20Techs)" > README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update README with GitHub Stats"
+          git push
