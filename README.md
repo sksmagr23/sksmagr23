@@ -12,7 +12,7 @@ Let's connect and build something amazing together!
   <a href="https://linkedin.com/in/saksham-agrawal-a10387286">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href=""https://instagram.com/saksham_agr_2400">
+  <a href=""https://instagram.com/saksham_agr_2400" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   </div>
