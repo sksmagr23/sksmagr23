@@ -5,6 +5,8 @@
 Hi👋! Myself SAKSHAM AGRAWAL
 ,🎓sophomore at IIT (BHU) VARANASI, currently flourishing skills in web development, wants to explore more in AI/ML.<br>
 Let's connect and build something amazing together!
+
+<br>
 <div id="header" align="center">
   <div id="badges">
   <a href="https://linkedin.com/in/saksham-agrawal-a10387286">
