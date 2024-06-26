@@ -9,7 +9,7 @@ Let's connect and build something amazing together!
 <h1></h1>
 <div id="header" align="center">
   <div id="badges">
-    <a href="sakshamag34@gmail.com">
+    <a href="mailto:sakshamag34@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/saksham-agrawal-a10387286" target="_blank">
