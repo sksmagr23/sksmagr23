@@ -9,15 +9,15 @@ Let's connect and build something amazing together!
 <h1></h1>
 <div id="header" align="center">
   <div id="badges">
-    <a href="mailto:sakshamag34@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/saksham-agrawal-a10387286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/saksham_agr_2400" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-0000FF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>  
+  <a href="mailto:sakshamag34@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=sksmagr23&style=flat-square&color=blue" alt="" align="center"/>
 </div>
