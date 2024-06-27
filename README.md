@@ -19,8 +19,7 @@ Let's connect and build something amazing together!
     <img src="https://img.shields.io/badge/Gmail-C41E3A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <a href="https://discord.com/invite/gfDtb7kb" target="_blank">
-<img src="https://img.shields.io/ static/v1?message=Discord&logo=disc ord&label=&color=7289DA&logoColor=w hite&labelColor=&style=for-the-badg e" height="35" alt="discord logo" />
-
+<img src="https://img.shields.io/ static/v1?message=Discord&logo=disc ord&label=&color=7289DA&logoColor=w hite&labelColor=&style=for-the-badg e" />
 </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=sksmagr23&style=flat-square&color=blue" alt="" align="center"/>
