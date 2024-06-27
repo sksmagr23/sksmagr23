@@ -16,7 +16,7 @@ Let's connect and build something amazing together!
      <img src="https://img.shields.io/badge/Instagram-0000FF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>  
   <a href="mailto:sakshamag34@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-C41E3A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=sksmagr23&style=flat-square&color=blue" alt="" align="center"/>
