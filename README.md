@@ -43,11 +43,11 @@ Let's connect and build something amazing together!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="45px" width="45px"/> 
-<img width="44" height="44" src="https://img.icons8.com/color/48/000000/clr_ejs_1.png" alt="clr_ejs_1"/> 
+<img width="43" height="43" src="https://img.icons8.com/color/48/000000/clr_ejs_1.png" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="45px" width="45px"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="45px" width="45px"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45px" width="45px"/>
-<img width="46" height="46" src="https://img.icons8.com/fluency/48/000000/github.png" alt="github"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/000000/github.png" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" height="45px" width="45px"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="45px" width="45px"/>
