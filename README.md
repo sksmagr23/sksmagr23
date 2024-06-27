@@ -18,9 +18,9 @@ Let's connect and build something amazing together!
   <a href="mailto:sakshamag34@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-C41E3A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<a href="https://discord.com/invite/gfDtb7kb" target="_blank">
-<img src="https://img.shields.io/ static/v1?message=Discord&logo=disc ord&label=&color=7289DA&logoColor=w hite&labelColor=&style=for-the-badg e" />
-</a>
+  <a href="https://discord.com/invite/q5RM3RB6" target="_blank">
+   <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+  </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=sksmagr23&style=flat-square&color=blue" alt="" align="center"/>
 </div>
@@ -59,9 +59,9 @@ Let's connect and build something amazing together!
 
 ### :fire: My Stats :
 
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&show_icons=true&theme=dark)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&theme=dark"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&layout=compact&theme=dark)
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=donut&theme=transparent&hide_border=true&langs_count=10)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=transparent&hide_border=true"/>
 
 
 ---
