@@ -43,11 +43,11 @@ Let's connect and build something amazing together!
 <img src="https://skillicons.dev/icons?i=express" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="45px" width="45px"/> 
-<img width="43" height="43" src="https://img.icons8.com/color/48/000000/clr_ejs_1.png" /> 
+<img width="40" height="40" src="https://img.icons8.com/color/48/000000/clr_ejs_1.png" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="45px" width="45px"/>  
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45px" width="45px"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/000000/github.png" />
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/000000/github.png" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" height="45px" width="45px"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="45px" width="45px"/>
