@@ -47,7 +47,6 @@ Let's connect and build something amazing together!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="45px" width="45px"/>  
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45px" width="45px"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/000000/github.png" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="45px" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" height="45px" width="45px"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="45px" width="45px"/>
