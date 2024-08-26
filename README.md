@@ -12,7 +12,7 @@ Let's connect and build something amazing together!
   <a href="https://linkedin.com/in/saksham-agrawal-a10387286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.instagram.com/saksham_agr_2400" target="_blank">
+  <a href="https://www.instagram.com/saksham_verse_24" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-ee2a7b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>  
   <a href="mailto:sakshamag34@gmail.com">
