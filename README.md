@@ -65,8 +65,8 @@ Let's connect and build something amazing together!
 
 ### :fire: My Stats :
 
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show=prs_merged_percentage&show_icons=true&hide=stars&theme=gruvbox&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=donut&theme=gruvbox&hide_border=true&langs_count=10)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=gruvbox&hide_border=true"/>
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show=prs_merged_percentage&show_icons=true&hide=stars&theme=gotham&hide_border=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=donut&theme=gotham&hide_border=true&langs_count=10)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=gotham&hide_border=true"/>
 
 <img src="https://raw.githubusercontent.com/sksmagr23/sksmagr23/e213b07e3eb3874a40befe078e011af7a500b4aa/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;">
