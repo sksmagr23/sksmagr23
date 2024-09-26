@@ -18,9 +18,9 @@ Let's connect and build something amazing together!
   <a href="mailto:sakshamag34@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/invite/q5RM3RB6" target="_blank">
-   <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
-  </a>
+  <a href="https://github.com/sksmagr23" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+</a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=sksmagr23&style=flat-square&color=blue" alt="" align="center"/>
 </div>
