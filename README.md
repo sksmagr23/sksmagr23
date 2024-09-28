@@ -28,7 +28,7 @@ Let's connect and build something amazing together!
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,tailwind,nodejs,express,mongodb,vite,django,git,github,nextjs,npm,postman,linux,firebase,figma,bash,vscode,ubuntu,vercel)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,tailwind,nodejs,express,mongodb,vite,django,git,github,nextjs,npm,postman,linux,firebase,figma,bash,vscode,ubuntu,vercel&perline=8)
 
 ---
 
