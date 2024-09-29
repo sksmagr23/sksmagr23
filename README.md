@@ -37,4 +37,5 @@ Hi👋! Myself SAKSHAM AGRAWAL
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=neon&hide_border=true"/>
 
 <img src="https://raw.githubusercontent.com/sksmagr23/sksmagr23/e213b07e3eb3874a40befe078e011af7a500b4aa/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sksmagr23&theme=youtube-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sksmagr23&theme=youtube-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
