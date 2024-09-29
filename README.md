@@ -22,7 +22,6 @@ Let's connect and build something amazing together!
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=sksmagr23&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 
 ---
