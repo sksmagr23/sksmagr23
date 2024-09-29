@@ -32,8 +32,8 @@ Hi👋! Myself SAKSHAM AGRAWAL
 
 ### :fire: My Stats :
 
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show=prs_merged_percentage&show_icons=true&hide=stars&theme=git-dark&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=donut&theme=git-dark&hide_border=true&langs_count=10)
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show=prs_merged_percentage&show_icons=true&hide=stars&theme=codeSTACKr&hide_border=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=donut&theme=codeSTACKr&hide_border=true&langs_count=10)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=git-dark&hide_border=true"/>
 
 <img src="https://raw.githubusercontent.com/sksmagr23/sksmagr23/e213b07e3eb3874a40befe078e011af7a500b4aa/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;">
