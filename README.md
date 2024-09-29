@@ -3,8 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 Hi👋! Myself SAKSHAM AGRAWAL
-,🎓sophomore at IIT (BHU) VARANASI, currently flourishing skills in web development, wants to explore more in AI/ML.<br>
-Let's connect and build something amazing together!
+,currently a 🎓sophomore at IIT (BHU) Varanasi. I'm developing expertise in web development and eager to dive deeper into AI/ML. I’m always open to collaborating on innovative projects that push boundaries. Let's connect and build something extraordinary!
 <br>
 <h1></h1>
 <div id="header" align="center">
@@ -38,3 +37,4 @@ Let's connect and build something amazing together!
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=neon&hide_border=true"/>
 
 <img src="https://raw.githubusercontent.com/sksmagr23/sksmagr23/e213b07e3eb3874a40befe078e011af7a500b4aa/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sksmagr23&theme=youtube-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
