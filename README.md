@@ -1,12 +1,12 @@
 <h2>
-  Hello Everyone
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello Everyone
 </h2>
-Hi👋! Myself SAKSHAM AGRAWAL
-,currently a 🎓sophomore at IIT (BHU) Varanasi. I'm developing expertise in web development and eager to dive deeper into AI/ML. I’m always open to collaborating on innovative projects that push boundaries. Let's connect and build something extraordinary!
+<strong>Hi👋! Myself SAKSHAM AGRAWAL
+,currently a 🎓sophomore at IIT (BHU) Varanasi. I'm developing expertise in web development and eager to dive deeper into AI/ML. I’m always open to collaborating on innovative projects that push boundaries. Let's connect and build something extraordinary!</strong>
 <br>
 <h1></h1>
-<div id="header" align="center">
+<div id="header">
   <div id="badges">
   <a href="https://linkedin.com/in/saksham-agrawal-a10387286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -32,8 +32,8 @@ Hi👋! Myself SAKSHAM AGRAWAL
 
 ### :fire: My Stats :
 
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show=prs_merged_percentage&show_icons=true&hide=stars&theme=great-gatsby&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=donut&theme=great-gatsby&hide_border=true&langs_count=10)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=git-dark&hide_border=true"/>
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show=prs_merged_percentage&show_icons=true&hide=stars&theme=blue_navy&hide_border=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=donut&theme=blue_navy&hide_border=true&langs_count=10)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=blue_navy&hide_border=true"/>
 
 <img src="https://raw.githubusercontent.com/sksmagr23/sksmagr23/e213b07e3eb3874a40befe078e011af7a500b4aa/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;">
