@@ -32,8 +32,8 @@
 
 ### :fire: My Stats :
 
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show=prs_merged_percentage&show_icons=true&hide=stars&theme=react&hide_border=true&rank_icon=github&token=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)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=compact&theme=react&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&text_bold=true&token=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)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=react&hide_border=true&token=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"/>
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show=prs_merged_percentage&show_icons=true&hide=stars&theme=react&hide_border=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=compact&theme=react&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&text_bold=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=react&hide_border=true"/>
 
 <img src="https://raw.githubusercontent.com/sksmagr23/sksmagr23/e213b07e3eb3874a40befe078e011af7a500b4aa/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;">
