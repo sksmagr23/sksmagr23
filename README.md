@@ -36,8 +36,10 @@
 
 ## 📊 My Stats :
 
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show_icons=true&theme=react&hide_border=true&rank_icon=github)
+<table><tr><td valign="top" width="100%">
+  
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=compact&theme=transparent&hide_border=true&langs_count=10&size_weight=1&count_weight=0.5&text_bold=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=transparent&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=compact&theme=react&hide_border=true&langs_count=10&size_weight=1&count_weight=0.5&text_bold=true)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=react&hide_border=true"/>
+</td></tr></table>
