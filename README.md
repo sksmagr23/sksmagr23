@@ -7,9 +7,9 @@
 
 
 ## 🔎 Find me on :
-<div id="header" align="center">
+<div id="header">
   <div id="badges">
-  <div id="badges">
+  <div id="badges" align="center">
   <a href="https://linkedin.com/in/saksham-agrawal-a10387286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
