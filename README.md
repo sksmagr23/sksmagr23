@@ -7,7 +7,7 @@
 
 
 ## 🔎 Find me on :
-<div id="header">
+<div id="header" align="center">
   <div id="badges">
   <div id="badges">
   <a href="https://linkedin.com/in/saksham-agrawal-a10387286" target="_blank">
@@ -16,9 +16,6 @@
   <a href="https://www.instagram.com/saksham_verse_24" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>  
-  <a href="mailto:sakshamag34@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/algofire24" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-EAC117?logo=leetcode&logoColor=000&style=for-the-badge" alt="LeetCode Badge">
   </a>
@@ -38,8 +35,8 @@
 
 <table><tr><td valign="top" width="100%">
   
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&text_bold=true&bg_color=75,212830,001861)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=11&size_weight=1&count_weight=0.5&text_bold=true&hide=ejs,dockerfile&text_bold=true&bg_color=75,212830,001861)
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=github_dark_dimmed&hide_border=true&text_bold=true&bg_color=75,212830,001861)
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&text_bold=true&bg_color=45,0d1117,00003f)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=11&size_weight=1&count_weight=0.5&text_bold=true&hide=ejs,dockerfile&text_bold=true&bg_color=45,0d1117,00003f)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=dark&hide_border=true&text_bold=true&bg_color=45,0d1117,00003f)
 
 </td></tr></table>
