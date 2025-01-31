@@ -35,8 +35,8 @@
 
 <table><tr><td valign="top" width="100%">
   
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&text_bold=true&bg_color=45,001105,002B0B)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=11&size_weight=1&count_weight=0.5&text_bold=true&hide=ejs,dockerfile&text_bold=true&bg_color=45,001105,002B0B)
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=github_dark_dimmed&hide_border=true&text_bold=true&background=45,001105,002B0B)
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmagr23&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&text_bold=true&bg_color=45,001105,002B0B)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=11&size_weight=1&count_weight=0.5&text_bold=true&hide=ejs,dockerfile&text_bold=true&bg_color=45,001105,002B0B)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&count_private=true&theme=chartreuse-dark&hide_border=true&text_bold=true&background=45,001105,002B0B)
 
 </td></tr></table>
