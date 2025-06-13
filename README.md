@@ -21,18 +21,18 @@ When I'm not coding, you'll probably find me exploring the latest tech trends, f
 
 ## 🔗 Connect With Me
 
-<div align="center">
+<div>
   <a href="https://linkedin.com/in/saksham-agrawal-a10387286" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" height=28 />
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" height=24 />
 </a>
   <a href="https://www.instagram.com/saksham_verse_24" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-7F00FF?logo=Instagram&logoColor=white" alt="Instagram" height=28 />
+    <img src="https://img.shields.io/badge/Instagram-8F09FF?logo=Instagram&logoColor=white" alt="Instagram" height=24 />
   </a>
   <a href="https://leetcode.com/algofire24" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-d16c06?logo=LeetCode&logoColor=000000" alt="LeetCode" height=28 />
+    <img src="https://img.shields.io/badge/LeetCode-d16c06?logo=LeetCode&logoColor=ffffff" alt="LeetCode" height=24 />
   </a>
   <a href="mailto:sakshamagrawal.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email" height=28 />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email" height=24 />
   </a>
 </div>
 
@@ -82,5 +82,5 @@ When I'm not coding, you'll probably find me exploring the latest tech trends, f
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:263238,50:37474F,100:455A64&height=120&section=footer&width=100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=100&section=footer" width="100%" />
 </div>
