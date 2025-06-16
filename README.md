@@ -49,7 +49,7 @@ When I'm not coding, you'll probably find me exploring the latest tech trends, f
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksmagr23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF&icon_color=64FFDA"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sksmagr23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=64FFDA&icon_color=64FFDA"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF"/>
 </div>
 
