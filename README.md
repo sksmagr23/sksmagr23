@@ -49,16 +49,16 @@ When I'm not coding, you'll probably find me exploring the latest tech trends, f
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksmagr23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=64FFDA&icon_color=64FFDA"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sksmagr23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=32CD32&text_color=32CD32&icon_color=32CD32" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0D1117&title_color=32CD32&text_color=32CD32" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&theme=dark&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=64FFDA&sideNums=64FFDA"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&theme=dark&hide_border=true&background=0D1117&stroke=32CD32&ring=32CD32&fire=32CD32&currStreakLabel=32CD32&sideLabels=FFFFFF&currStreakNum=32CD32&sideNums=32CD32" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sksmagr23&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sksmagr23&bg_color=0D1117&color=32CD32&line=32CD32&point=32CD32&area=true&hide_border=true" />
 </div>
 
 ---
@@ -66,21 +66,20 @@ When I'm not coding, you'll probably find me exploring the latest tech trends, f
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sksmagr23&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sksmagr23&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 ---
-
 
 <div align="center">
   <p>🤝 Open to collaborations, freelance opportunities, and tech discussions</p>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sksmagr23&label=Profile%20Views&color=263238&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sksmagr23?label=Followers&style=for-the-badge&color=263238" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=sksmagr23&label=Profile%20Views&color=32CD39&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/sksmagr23?label=Followers&style=for-the-badge&color=32CD32" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=100&section=footer" width="100%" />
 </div>
