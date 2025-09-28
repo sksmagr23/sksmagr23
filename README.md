@@ -1,38 +1,26 @@
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHhKwMGyixNqg/profile-displaybackgroundimage-shrink_350_1400/B56ZWutUs8HsAg-/0/1742392874502?e=1755129600&v=beta&t=4UzYFayQTUDKyg4f6pUQGgF5S6HY40wGSokvmC5FHFg" />
-</div>
+<h1 align="center"> <--- SaKsHaM AgRaWaL ---> </h1>
 <br>
 <div style="margin-top: 20px;">
-Hey there! I'm a <strong>Pre-Final Year Student</strong> at <strong>IIT (BHU) Varanasi</strong> with an endless curiosity for web development and software engineering. From designing intuitive user experiences to engineering robust backends, I'm passionate about bringing the best of both worlds to life! 🎯
-<br>
-When I'm not coding, you'll probably find me exploring the latest tech trends, figuring out how to break and rebuild things just for fun. I'm always excited to collaborate on cool projects, brainstorm wild ideas, and turn them into something real and impactful. So, if you're into pushing boundaries, let's connect and create something epic together! 💡💻
+Hey there! I'm a <strong>Pre-Final Year Student</strong> at <strong>IIT (BHU) Varanasi</strong> with an endless curiosity for web development and software engineering. From designing intuitive user experiences to engineering robust backends, I'm passionate about bringing the best of both worlds to life! 🎯💡💻
 </div>
 
 ---
 
-## 🌟 What I'm Up To
-
-- 🔭 Currently working on **Full Stack Web Applications** using MERN Stack
-- 🌱 Learning **Go** and **DEvops**
-- 👯 Looking to collaborate on **Open Source Projects** and **Innovative Web Solutions**
-- 💬 Ask me about **React**, **Node**, **MongoDB**, or **JS**
-
----
-
-## 🔗 Connect With Me
-
-<div>
+<div align="center">
   <a href="https://linkedin.com/in/saksham-agrawal-a10387286" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" height=24 />
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=fff" alt="LinkedIn" height=24 />
 </a>
   <a href="https://www.instagram.com/saksham_verse_24" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-8F09FF?logo=Instagram&logoColor=white" alt="Instagram" height=24 />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" alt="Instagram" height=24 />
   </a>
   <a href="https://leetcode.com/algofire24" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-d16c06?logo=LeetCode&logoColor=ffffff" alt="LeetCode" height=24 />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=ffffff" alt="LeetCode" height=24 />
   </a>
   <a href="mailto:sakshamagrawal.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email" height=24 />
+  </a>
+  <a href="https://peerlist.io/sksmagr" target="_blank">
+    <img src="https://github-readme-badge.peerlist.io/api/sksmagr" target="_blank"/>    
   </a>
 </div>
 
@@ -41,7 +29,7 @@ When I'm not coding, you'll probably find me exploring the latest tech trends, f
 ## 🛠️ Tech Stack & Tools
 
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,go,html,css,react,nextjs,tailwind,nodejs,express,django,mongodb,firebase,git,github,vscode,postman,linux,npm,bash,discord,discordjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,go,html,css,react,nextjs,tailwind,astro,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,postman,linux,npm,bash,discord,discordjs,docker&theme=dark" />
 </div>
 
 ---
@@ -63,22 +51,6 @@ When I'm not coding, you'll probably find me exploring the latest tech trends, f
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sksmagr23&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
-
----
-
-<div align="center">
-  <p>🤝 Open to collaborations, freelance opportunities, and tech discussions</p>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sksmagr23&label=Profile%20Views&color=32CD39&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/sksmagr23?label=Followers&style=for-the-badge&color=32CD32" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=100&section=footer" width="100%" />
