@@ -29,7 +29,7 @@ Hey there! I'm a <strong>Pre-Final Year Student</strong> at <strong>IIT (BHU) Va
 ## 🛠️ Tech Stack & Tools
 
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,go,html,css,react,nextjs,tailwind,astro,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,postman,linux,npm,bash,discord,discordjs,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,go,html,css,react,nextjs,tailwind,astro,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,postman,linux,npm,bash,discord,discordjs,md,docker&theme=dark" />
 </div>
 
 ---
@@ -37,21 +37,21 @@ Hey there! I'm a <strong>Pre-Final Year Student</strong> at <strong>IIT (BHU) Va
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksmagr23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=32CD32&text_color=32CD32&icon_color=32CD32" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0D1117&title_color=32CD32&text_color=32CD32" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sksmagr23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=d1ffce&text_color=d1ffce&icon_color=32CD32" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=d1ffce&text_color=d1ffce" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&theme=dark&hide_border=true&background=0D1117&stroke=32CD32&ring=32CD32&fire=32CD32&currStreakLabel=32CD32&sideLabels=FFFFFF&currStreakNum=32CD32&sideNums=32CD32" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksmagr23&theme=dark&hide_border=true&background=0D1117&stroke=d1ffce&ring=32CD32&fire=32CD32&currStreakLabel=d1ffce&sideLabels=FFFFFF&currStreakNum=d1ffce&sideNums=d1ffce" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sksmagr23&bg_color=0D1117&color=32CD32&line=32CD32&point=32CD32&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sksmagr23&bg_color=0D1117&color=d1ffce&line=32CD32&point=d1ffce&area=true&hide_border=true" />
 </div>
 
 ---
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d1ffce&height=75&section=footer" width="100%" />
 </div>
