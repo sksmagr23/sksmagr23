@@ -38,7 +38,7 @@ Hey there! I'm a <strong>Pre-Final Year Student</strong> at <strong>IIT (BHU) Va
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sksmagr23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=d1ffce&text_color=d1ffce&icon_color=32CD32" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=d1ffce&text_color=d1ffce" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=d1ffce&text_color=d1ffce&exclude_repo=webdev-practice" />
 </div>
 
 <div align="center">
