@@ -1,25 +1,40 @@
 <h1 align="center"> <--- SaKsHaM AgRaWaL ---> </h1>
 <br>
 <div style="margin-top: 20px;">
-Hey there! I'm a <strong>Pre-Final Year Student</strong> at <strong>IIT (BHU) Varanasi</strong> with an endless curiosity for web development and software engineering. From designing intuitive user experiences to engineering robust backends, I'm passionate about bringing the best of both worlds to life! 🎯💡💻
+Hey there! I'm a <strong>Final Year Student</strong> at <strong>IIT (BHU) Varanasi</strong> with an endless curiosity for web development and software engineering. From designing intuitive user experiences to engineering robust backends, I'm passionate about bringing the best of both worlds to life! 🎯💡💻
 </div>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,go,html,css,react,nextjs,tailwind,astro,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,postman,linux,npm,bash,discord,discordjs,md,docker&theme=dark" />
-</div>
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Frameworks/ Technologies</th>
+    <th>Tools/ Platforms</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,go,mysql,md&theme=dark&perline=4" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=css,react,nodejs,express,nextjs,django,fastapi,tailwind&theme=dark&perline=4" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=github,vscode,docker,mongodb,postgres,redis,firebase,linux&theme=dark&perline=4" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksmagr23&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=01fa02&text_color=01fa02" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sksmagr23&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=01fa02&text_color=01fa02" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksmagr23&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=01fa02&text_color=01fa02&exclude_repo=webdev-practice" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sksmagr23&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=01fa02&text_color=01fa02&exclude_repo=webdev-practice" />
 </div>
 
 <div align="center">
@@ -27,7 +42,7 @@ Hey there! I'm a <strong>Pre-Final Year Student</strong> at <strong>IIT (BHU) Va
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sksmagr23&bg_color=0D1117&color=01fa02&line=01fa02&point=01fa02&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sksmagr23&bg_color=0D1117&color=01fa02&line=01fa02&point=01fa02&hide_border=true" />
 </div>
 
 ---
