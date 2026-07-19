@@ -2,6 +2,22 @@
 <br>
 <div style="margin-top: 20px;">
 Hey there! I'm a <strong>Final Year Student</strong> at <strong>IIT (BHU) Varanasi</strong> with an endless curiosity for web development and software engineering. From designing intuitive user experiences to engineering robust backends, I'm passionate about bringing the best of both worlds to life! 🎯💡💻
+</div>  
+<br>
+<div align="center">
+<a href="https://linkedin.com/in/saksham-agrawal-a10387286" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin&logoColor=01fa02&style=for-the-badge" alt="LinkedIn" />
+</a>
+<a href="mailto:sakshamag34@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?logo=gmail&logoColor=01fa02&style=for-the-badge" alt="Email" />
+</a>
+<a href="https://leetcode.com/algofire24" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=01fa02&style=for-the-badge" alt="LeetCode" />
+</a>
+<a href="https://www.instagram.com/sksmagr18" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=01fa02&style=for-the-badge" alt="Instagram" />
+</a>
+
 </div>
 
 ---
@@ -43,25 +59,6 @@ Hey there! I'm a <strong>Final Year Student</strong> at <strong>IIT (BHU) Varana
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sksmagr23&bg_color=0D1117&color=01fa02&line=01fa02&point=01fa02&hide_border=true" />
-</div>
-
----
-
-## Let's connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/saksham-agrawal-a10387286" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=fff" alt="LinkedIn" height=24 />
-</a>
-  <a href="https://www.instagram.com/sksmagr18" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" alt="Instagram" height=24 />
-  </a>
-  <a href="https://leetcode.com/algofire24" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=ffffff" alt="LeetCode" height=24 />
-  </a>
-  <a href="mailto:sakshamag34@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email" height=24 />
-  </a>
 </div>
 
 ---
