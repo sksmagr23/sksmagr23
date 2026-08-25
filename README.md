@@ -22,20 +22,24 @@ Hey there! I'm a <strong>Final Year Student</strong> at <strong>IIT (BHU) Varana
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <table align="center">
   <tr>
     <th>Languages</th>
-    <th>Frameworks/ Technologies</th>
-    <th>Tools/ Platforms</th>
+    <th>Technologies</th>
+    <th>Tools</th>
   </tr>
   <tr>
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,go,mysql,md&theme=dark&perline=4" />
     </td>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=css,react,nodejs,express,nextjs,django,fastapi,tailwind&theme=dark&perline=4" />
+      <img src="https://skillicons.dev/icons?i=css,react,nodejs,express,nextjs&theme=dark&perline=5" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=django,fastapi,tailwind&theme=dark&perline=5" />
+      <img src="https://adk.dev/assets/agent-development-kit.png" width="48" height="48" />
+      <img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69983caa0521ea61da792805_Frame%202147254720.svg" width="48" height="48" />
     </td>
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=github,vscode,docker,mongodb,postgres,redis,firebase,linux&theme=dark&perline=4" />
