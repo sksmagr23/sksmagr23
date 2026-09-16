@@ -54,7 +54,7 @@ Hey there! I'm a <strong>Final Year Student</strong> at <strong>IIT (BHU) Varana
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=sksmagr23&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=01fa02&text_color=01fa02" />
   
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sksmagr23&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=01fa02&text_color=01fa02&exclude_repo=webdev-practice" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sksmagr23&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=01fa02&text_color=01fa02&exclude_repo=webdev-practice&hide=scss,html" />
 </div>
 
 <div align="center">
