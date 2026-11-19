@@ -1,9 +1,24 @@
-<h1 align="center"> <--- SaKsHaM AgRaWaL ---> </h1>
-<br>
-<div style="margin-top: 20px;">
-Hey there! I'm a <strong>Final Year Student</strong> at <strong>IIT (BHU) Varanasi</strong> with an endless curiosity for web development and software engineering. From designing intuitive user experiences to engineering robust backends, I'm passionate about bringing the best of both worlds to life! 🎯💡💻
-</div>  
-<br>
+<div align="center">
+  <img src="./assets/banner.png" width="100%" alt="banner" />
+</div>
+
+### [ aboutme.json ]
+---
+
+```json
+{
+  "name": "Saksham Agrawal",
+  "college": "IIT BHU",
+  "location": "Varanasi, India",
+  "Programming": ["JS", "C++", "Python", "Go"],
+  "AI Tools": ["Antigravity", "Cursor", "ChatGPT", "Gemini"],
+  "Hobbies": ["Gaming", "Cricket"],
+  "openToWork": true,
+  "quickLearner": true,
+  "caffeineLevel": "High ☕",
+}
+```
+
 <div align="center">
 <a href="https://linkedin.com/in/saksham-agrawal-a10387286" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin&logoColor=01fa02&style=for-the-badge" alt="LinkedIn" />
@@ -20,9 +35,8 @@ Hey there! I'm a <strong>Final Year Student</strong> at <strong>IIT (BHU) Varana
 
 </div>
 
+### [ Tech Stack ]
 ---
-
-## 🛠️ Tech Stack
 
 <table align="center">
   <tr>
@@ -47,9 +61,9 @@ Hey there! I'm a <strong>Final Year Student</strong> at <strong>IIT (BHU) Varana
   </tr>
 </table>
 
----
 
-## 📊 GitHub Analytics
+### [ GitHub Analytics ]
+---
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=sksmagr23&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=01fa02&text_color=01fa02" />
