@@ -19,7 +19,7 @@
 }
 ```
 
-<div align="center">
+<div>
 <a href="https://linkedin.com/in/saksham-agrawal-a10387286" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin&logoColor=01fa02&style=for-the-badge" alt="LinkedIn" />
 </a>
