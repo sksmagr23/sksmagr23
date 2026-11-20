@@ -15,7 +15,7 @@
   "Hobbies": ["Gaming", "Cricket"],
   "openToWork": true,
   "quickLearner": true,
-  "caffeineLevel": "High ☕",
+  "caffeineLevel": "High ☕"
 }
 ```
 
@@ -26,11 +26,11 @@
 <a href="mailto:sakshamag34@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?logo=gmail&logoColor=01fa02&style=for-the-badge" alt="Email" />
 </a>
-<a href="https://leetcode.com/algofire24" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=01fa02&style=for-the-badge" alt="LeetCode" />
-</a>
 <a href="https://www.instagram.com/sksmagr18" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=01fa02&style=for-the-badge" alt="Instagram" />
+</a>
+<a href="https://portfolio-sksm.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=01fa02&style=for-the-badge" alt="Portfolio" />
 </a>
 
 </div>
@@ -40,9 +40,9 @@
 
 <table align="center">
   <tr>
-    <th>Languages</th>
-    <th>Technologies</th>
-    <th>Tools</th>
+    <th>[Languages]</th>
+    <th>[Technologies]</th>
+    <th>[Tools]</th>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -61,6 +61,16 @@
   </tr>
 </table>
 
+### [ coding_stats.json ]
+---
+
+<div align="center">
+
+<!-- CODOLIO_STATS_START -->
+Stats are populated automatically by GitHub Actions.
+<!-- CODOLIO_STATS_END -->
+
+</div>
 
 ### [ GitHub Analytics ]
 ---
