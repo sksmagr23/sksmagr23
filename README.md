@@ -67,7 +67,27 @@
 <div align="center">
 
 <!-- CODOLIO_STATS_START -->
-Stats are populated automatically by GitHub Actions.
+<p align="center">
+  <img src="https://img.shields.io/badge/CODOLIO-LIVE%20CODING%20STATS-000000?style=for-the-badge&logo=codeforces&logoColor=01fa02" alt="Codolio live coding stats" />
+</p>
+
+| Platform | Problems Solved | Current Rating | Best Rating | Highlights |
+|:---|---:|---:|---:|:---|
+| [LeetCode](https://leetcode.com/algofire24/) | **812** | `1909` | `1909` | **Knight** · 52-day max streak |
+| [CodeChef](https://www.codechef.com/users/algofire24) | **670** | `1488` | `1488` | 2-star · DSA rating `1888` |
+| [GeeksforGeeks](https://www.geeksforgeeks.org/user/algofire24/) | **255** | — | — | — |
+
+#### LeetCode · Problem Breakdown
+
+| Easy | Medium | Hard | Total |
+|---:|---:|---:|---:|
+| 304 | 434 | 74 | **812** |
+
+**Notable badges:** `Knight` · `365 Days Badge` · `200 Days Badge 2026` · `Top SQL 50`
+
+> **Total solved across these 3 platforms: 1,737** (platform totals may include duplicate problems).
+
+<sub>Last synced: 2026-11-20 14:12 UTC · Source: Codolio API.</sub>
 <!-- CODOLIO_STATS_END -->
 
 </div>
