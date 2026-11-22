@@ -87,7 +87,7 @@
 
 > **Total solved across these 3 platforms: 1,737** (platform totals may include duplicate problems).
 
-<sub>Last synced: 2026-11-20 14:12 UTC · Source: Codolio API.</sub>
+<sub>Last synced: 2026-11-22 00:45 UTC · Source: Codolio API.</sub>
 <!-- CODOLIO_STATS_END -->
 
 </div>
